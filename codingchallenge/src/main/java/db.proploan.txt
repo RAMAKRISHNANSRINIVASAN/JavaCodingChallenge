@@ -1,0 +1,6 @@
+db.url=jdbc:mysql://localhost:3306/LoanManage
+db.username=root
+db.password=rama1234$R
+db.hostname=localhost
+db.dbname=LoanManage
+db.port=3306
